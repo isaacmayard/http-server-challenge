@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/isaacmayard/http-server-challenge/issues"
   },
-  "homepage": "https://github.com/isaacmayard/http-server-challenge#readme"
+  "homepage": "https://github.com/isaacmayard/http-server-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
